@@ -67,7 +67,7 @@ git clone https://github.com/Felipe3838/challenge-amigo-secreto-Oracle-Next-Educ
 
 ---
 
-## 🧪 Validaciones implementadas
+## :computer: Validaciones implementadas
 
 - ❌ No se permiten campos vacíos.Si el usuario le da a **añadir**sin haber escrito un nombre,hará la validación correspondiente.
 - ❌ No se permiten caracteres especiales ni números.Si el usuario escribe **números o caracteres especiales**hará la validación correspondiente.
