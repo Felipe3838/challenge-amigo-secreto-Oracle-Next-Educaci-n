@@ -37,26 +37,20 @@ Primero se crea una lista llamada `amigos` donde se almacenarán todos los nombr
 
 ## 🧠 Tecnologías utilizadas
 
-- **HTML**
+- **HTML**  
   <p align="center">
-  <img src="<img width="1200" height="628" alt="image" src="https://github.com/user-attachments/assets/58204778-1132-4f2f-80ec-8b69f98f0407" />
-" width="200">
-</p>
+    <img src="https://github.com/user-attachments/assets/58204778-1132-4f2f-80ec-8b69f98f0407" width="200">
+  </p>
 
-- **CSS**
+- **CSS**  
   <p align="center">
-  <img src="<img width="1200" height="628" alt="image" src="<img width="1296" height="881" alt="image" src="https://github.com/user-attachments/assets/0c70133e-2f53-4313-bbab-1390918f51b5" />
-" />
-" width="200">
-</p>
+    <img src="https://github.com/user-attachments/assets/0c70133e-2f53-4313-bbab-1390918f51b5" width="200">
+  </p>
 
-- **JavaScript**
+- **JavaScript**  
   <p align="center">
-  <img src="<img width="1200" height="628" alt="image" src="<img width="1024" height="683" alt="image" src="https://github.com/user-attachments/assets/4ada2a2f-c240-4d67-a157-ffcb0970afc0" />
-" />
-" width="200">
-</p>
-
+    <img src="https://github.com/user-attachments/assets/4ada2a2f-c240-4d67-a157-ffcb0970afc0" width="200">
+  </p>
 ---
 
 ## :card_file_box: Estructura del Proyecto
