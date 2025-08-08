@@ -1,7 +1,7 @@
 # :twisted_rightwards_arrows: Sorteo de Amigo Secreto
 ## 📑 Índice 📑
 
-- [Sorteo de Amigo Secreto](#sorteo-de-amigo-secreto)
+- [Sorteo de Amigo Secreto](#Sorteo de Amigo Secreto)
 - [Descripción del Proyecto](#descripcion-del-proyecto)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologías utilizadas](#tecnologias-utilizadas)
