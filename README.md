@@ -24,8 +24,11 @@ Este proyecto fue creado como parte de un desafío de aprendizaje,con el obejtiv
 
 ## :wrench: Funcionalidades
 
-✅ Desarrolla una función, que permita al usuario ingresar un nombre en el campo de texto y añadirlo a la lista de amigos creada anteriormente.
--tonto
+✅ 1. **Agregar amigos a la lista**
+   - **Capturar el valor del campo de entrada:** Utilizar `document.getElementById` o `document.querySelector` para obtener el texto ingresado por el usuario.
+   - **Validar la entrada:** Implementar una validación para asegurarse de que el campo no esté vacío. Si está vacío, mostrar un `alert` con el mensaje: *"Por favor, inserte un nombre."*
+   - **Actualizar el array de amigos:** Si el valor es válido, añadirlo al arreglo que almacena los nombres de amigos usando el método `.push()`.
+   - **Limpiar el campo de entrada:** Después de añadir el nombre, restablecer el campo de texto a una cadena vacía.
 ✅ Validar que los nombres no estén vacíos, no se repitan y no contengan caracteres inválidos.  
 ✅ Mostrar en la pantalla la lista de amigos agregados secuencialmente.  
 ✅ Sortear aleatoriamente un nombre de las personas que esten agrgadas dentro de la lista.  
