@@ -1,5 +1,16 @@
 # :twisted_rightwards_arrows: Sorteo de Amigo Secreto
+## 📑 Índice 📑
 
+- [Sorteo de Amigo Secreto](#sorteo-de-amigo-secreto)
+- [Descripción del Proyecto](#descripción-del-proyecto)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologías utilizadas](#tecnologías-utilizadas)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [¿Cómo usar este proyecto?](#cómo-usar-este-proyecto)
+- [Validaciones implementadas](#validaciones-implementadas)
+- [Posibles mejoras futuras](#posibles-mejoras-futuras)
+- [Autor](#autor)
+- [Licencia](#licencia)
 <p align="center">
   <img src="https://static.skillshare.com/uploads/video/thumbnails/c38251fc34fe43812b476c376c5d6945/1280-720" width="200">
 </p>
