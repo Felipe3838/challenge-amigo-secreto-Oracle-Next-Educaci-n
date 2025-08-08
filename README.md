@@ -23,6 +23,9 @@ Este proyecto fue creado como parte de un desafío de aprendizaje,con el obejtiv
 ---
 
 ## :wrench: Funcionalidades
+<p align="center">
+    <img src="https://i.postimg.cc/d1gj35GR/Captura-de-pantalla-2025-08-08-172029.png" width="200">
+  </p>
 Primero se crea una lista llamada `amigos` donde se almacenarán todos los nombres registrados.  
 
 1. :white_check_mark:**Agregar amigos a la lista** 
