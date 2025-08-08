@@ -26,23 +26,25 @@ Este proyecto fue creado como parte de un desafío de aprendizaje,con el obejtiv
 ## ✅ Funcionalidades
 
 1. **Agregar amigos a la lista**  
+   *Descripción:* Permite registrar nuevos nombres en el arreglo `amigos`, validando que el campo no esté vacío y actualizando la lista de forma dinámica.  
    - **Capturar el valor del campo de entrada:** Utilizar `document.getElementById` o `document.querySelector` para obtener el texto ingresado por el usuario.  
    - **Validar la entrada:** Implementar una validación para asegurarse de que el campo no esté vacío. Si está vacío, mostrar un `alert` con el mensaje: *"Por favor, inserte un nombre."*  
    - **Actualizar el array de amigos:** Si el valor es válido, añadirlo al arreglo que almacena los nombres de amigos usando el método `.push()`.  
    - **Limpiar el campo de entrada:** Después de añadir el nombre, restablecer el campo de texto a una cadena vacía.  
 
 2. **Mostrar la lista de amigos**  
+   *Descripción:* Actualiza la interfaz mostrando todos los nombres almacenados en el arreglo `amigos` dentro de una lista HTML, evitando duplicados y manteniendo el orden.  
    - **Obtener el elemento de la lista:** Utilizar `document.getElementById()` o `document.querySelector()` para seleccionar la lista donde se mostrarán los amigos.  
    - **Limpiar la lista existente:** Establecer `lista.innerHTML = ""` para asegurarse de que no haya duplicados al actualizar.  
    - **Iterar sobre el arreglo:** Usar un bucle `for` para recorrer el arreglo `amigos` y crear elementos de lista (`<li>`) para cada nombre.  
    - **Agregar elementos a la lista:** Para cada amigo, crear un nuevo elemento `<li>` y añadirlo al DOM dentro de la lista seleccionada.  
 
 3. **Implementar una función para sortear amigos**  
+   *Descripción:* Selecciona de forma aleatoria un amigo del arreglo `amigos` usando un índice generado con `Math.random()` y `Math.floor()`, mostrando el resultado en pantalla.  
    - **Validar que haya amigos disponibles:** Antes de sortear, comprobar si el array `amigos` no está vacío.  
    - **Generar un índice aleatorio:** Usar `Math.random()` y `Math.floor()` para seleccionar un índice aleatorio del arreglo.  
    - **Obtener el nombre sorteado:** Utilizar el índice aleatorio para acceder al nombre correspondiente en el arreglo.  
    - **Mostrar el resultado:** Actualizar el contenido del elemento de resultado utilizando `document.getElementById()` e `innerHTML` para mostrar el amigo sorteado.  
-
 ---
 
 ## 🧠 Tecnologías utilizadas
