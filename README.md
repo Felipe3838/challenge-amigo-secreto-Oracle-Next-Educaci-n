@@ -52,7 +52,7 @@ Este proyecto fue creado como parte de un desafío de aprendizaje,con el obejtiv
 1. **Clona el repositorio o si es preferible descargarlo en archivo RAR para probar sin necesidad de clonarlo:**
 
 ```bash
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+git clone https://github.com/Felipe3838/challenge-amigo-secreto-Oracle-Next-Educaci-n
 ```
 
 2. **Luego abre el archivo `index.html` en tu navegador que está dentro de la carpeta donde clonaste el proyecto** (doble clic para iniciarlo y abrir el el navegador).
@@ -85,7 +85,7 @@ git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
 ## 👨‍💻 Autor
 
 - **Brayan Ferlipe Muñoz S**
-- GitHub: [@TuUsuario](https://github.com/TuUsuario)
+- GitHub: [@Felipe3838](https://github.com/Felipe3838)
 
 ---
 
