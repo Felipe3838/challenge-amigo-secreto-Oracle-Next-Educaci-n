@@ -1,1 +1,1 @@
-<em> # Mi primer proyecto </em>
+<h1 align="center"> Mi primer proyecto </h1>
