@@ -2,7 +2,7 @@
 ## 📑 Índice 📑
 
 - [Sorteo de Amigo Secreto](#Sorteo-de-Amigo-Secreto)
-- [Descripción del Proyecto](#descripcion-del-proyecto)
+- [Descripción del Proyecto](#Descripción-del-Proyecto)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologías utilizadas](#tecnologias-utilizadas)
 - [Estructura del Proyecto](#estructura-del-proyecto)
