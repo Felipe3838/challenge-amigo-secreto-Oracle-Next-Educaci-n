@@ -17,6 +17,9 @@
 
 **Sorteo de Amigo Secreto** es una **aplicación web interactiva** desarrollada con **JavaScript**, **HTML** y **CSS**, y propuesta por **Oracle Next-Education** – curso de tecnología, cuyo objetivo principal es **fortalecer y promover las habilidades en lógica de programación** y, por supuesto, aplicar los conocimientos vistos en los cursos **Lógica de programación: sumérgete en la programación con JavaScript** y **Lógica de programación: explorar funciones y listas**.  
 Esta herramienta permite simular el juego de "amigo secreto o amigo aleatorio", donde se agregan nombres a una lista para luego realizar un sorteo aleatorio y seleccionar un participante.
+una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
+
+El usuario deberá agregar nombres mediante un campo de texto y un botón "Adicionar". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
 
 ---
 
