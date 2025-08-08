@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Descripción del Proyecto
+## :brain: Descripción del Proyecto
 
 Este proyecto fue creado como parte de un desafío de aprendizaje,con el obejtivo de practicar lo aprendido e interactuar con:
 
