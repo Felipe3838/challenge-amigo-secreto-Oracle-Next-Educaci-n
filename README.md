@@ -5,7 +5,7 @@
 
 ---
 
-## :brain: Descripción del Proyecto
+## :books: Descripción del Proyecto
 
 Este proyecto fue creado como parte de un desafío de aprendizaje,con el obejtivo de practicar lo aprendido e interactuar con:
 
@@ -18,7 +18,7 @@ Este proyecto fue creado como parte de un desafío de aprendizaje,con el obejtiv
 
 ---
 
-## 🚀 Funcionalidades
+## :wrench: Funcionalidades
 
 ✅ Agregar nombres a una lista.  
 ✅ Validar que los nombres no estén vacíos, no se repitan y no contengan caracteres inválidos.  
@@ -36,7 +36,7 @@ Este proyecto fue creado como parte de un desafío de aprendizaje,con el obejtiv
 
 ---
 
-## 📂 Estructura del Proyecto
+## :card_file_box: Estructura del Proyecto
 
 ```plaintext
 📁 Proyecto-Amigo-Secreto/
@@ -58,7 +58,7 @@ git clone https://github.com/Felipe3838/challenge-amigo-secreto-Oracle-Next-Educ
 
 2. **Luego abre el archivo `index.html` en tu navegador que está dentro de la carpeta donde clonaste el proyecto** (doble clic para iniciarlo y abrir el el navegador).
 
-3. **Usa la aplicación**:
+3. :computer:**Usa la aplicación**:
 
 - Escribe un nombre en el campo de texto.
 - los nombres que vayas agrgando,irán apareciendo en la pantalla.
