@@ -38,6 +38,9 @@ Primero se crea una lista llamada `amigos` donde se almacenarán todos los nombr
 ## 🧠 Tecnologías utilizadas
 
 - **HTML**
+  <p align="center">
+  <img src="https://static.skillshare.com/uploads/video/thumbnails/c38251fc34fe43812b476c376c5d6945/1280-720" width="200">
+</p>
 - **CSS** 
 - **JavaScript**
 
