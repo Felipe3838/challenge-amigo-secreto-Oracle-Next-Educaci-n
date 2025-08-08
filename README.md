@@ -24,7 +24,8 @@ Este proyecto fue creado como parte de un desafío de aprendizaje,con el obejtiv
 
 ## :wrench: Funcionalidades
 
-✅ Agregar nombres a una lista.  
+✅ Desarrolla una función, que permita al usuario ingresar un nombre en el campo de texto y añadirlo a la lista de amigos creada anteriormente.
+-tonto
 ✅ Validar que los nombres no estén vacíos, no se repitan y no contengan caracteres inválidos.  
 ✅ Mostrar en la pantalla la lista de amigos agregados secuencialmente.  
 ✅ Sortear aleatoriamente un nombre de las personas que esten agrgadas dentro de la lista.  
@@ -35,7 +36,7 @@ Este proyecto fue creado como parte de un desafío de aprendizaje,con el obejtiv
 ## 🧠 Tecnologías utilizadas
 
 - **HTML**
-- **CSS** *(opcional, si usas estilos)*
+- **CSS** 
 - **JavaScript**
 
 ---
