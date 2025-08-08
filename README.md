@@ -23,15 +23,16 @@ Este proyecto fue creado como parte de un desafío de aprendizaje,con el obejtiv
 ---
 
 ## :wrench: Funcionalidades
-**Agregar amigos a la lista**  
+Primero se crea una lista llamada `amigos` donde se almacenarán todos los nombres registrados.  
+
+1. **Agregar amigos a la lista**  
    Permite registrar nuevos nombres en `amigos`, validando que no estén vacíos y limpiando el campo tras añadirlos.  
 
 2. **Mostrar la lista de amigos**  
    Muestra en pantalla los nombres del arreglo `amigos` en una lista HTML, evitando duplicados y actualizando dinámicamente.  
 
 3. **Sortear un amigo**  
-   Selecciona aleatoriamente un nombre de `amigos` y lo muestra en pantalla.
-   
+   Selecciona aleatoriamente un nombre de `amigos` y lo muestra en pantalla. 
 ---
 
 ## 🧠 Tecnologías utilizadas
