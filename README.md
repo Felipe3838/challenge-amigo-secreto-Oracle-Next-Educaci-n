@@ -24,7 +24,7 @@ Este proyecto fue creado como parte de un desafío de aprendizaje,con el obejtiv
 
 ## :wrench: Funcionalidades
 <p align="center">
-    <img src="https://i.postimg.cc/d1gj35GR/Captura-de-pantalla-2025-08-08-172029.png" width="600">
+    <img src="https://i.postimg.cc/d1gj35GR/Captura-de-pantalla-2025-08-08-172029.png" width="500">
   </p>
 Primero se crea una lista llamada `amigos` donde se almacenarán todos los nombres registrados.  
 
