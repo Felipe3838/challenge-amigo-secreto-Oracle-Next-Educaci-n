@@ -25,13 +25,13 @@ Este proyecto fue creado como parte de un desafío de aprendizaje,con el obejtiv
 ## :wrench: Funcionalidades
 Primero se crea una lista llamada `amigos` donde se almacenarán todos los nombres registrados.  
 
-1. **Agregar amigos a la lista** :white_check_mark:
+1. :white_check_mark:**Agregar amigos a la lista** 
    Permite registrar nuevos nombres en `amigos`, validando que no estén vacíos y limpiando el campo tras añadirlos.  
 
-2. **Mostrar la lista de amigos**  
+2. :white_check_mark:**Mostrar la lista de amigos**  
    Muestra en pantalla los nombres del arreglo `amigos` en una lista HTML, evitando duplicados y actualizando dinámicamente.  
 
-3. **Sortear un amigo**  
+3. :white_check_mark:**Sortear un amigo**  
    Selecciona aleatoriamente un nombre de `amigos` y lo muestra en pantalla. 
 ---
 
