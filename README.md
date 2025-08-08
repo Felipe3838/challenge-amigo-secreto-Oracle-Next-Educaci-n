@@ -25,7 +25,7 @@ Este proyecto fue creado como parte de un desafío de aprendizaje,con el obejtiv
 ## :wrench: Funcionalidades
 Primero se crea una lista llamada `amigos` donde se almacenarán todos los nombres registrados.  
 
-1. **Agregar amigos a la lista**  
+1. **Agregar amigos a la lista** :white_check_mark:
    Permite registrar nuevos nombres en `amigos`, validando que no estén vacíos y limpiando el campo tras añadirlos.  
 
 2. **Mostrar la lista de amigos**  
