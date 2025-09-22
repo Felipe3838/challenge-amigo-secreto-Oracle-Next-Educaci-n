@@ -121,6 +121,7 @@ git clone https://github.com/Felipe3838/challenge-amigo-secreto-Oracle-Next-Educ
 
 - **Brayan Ferlipe Muñoz S**
 - GitHub: [@Felipe3838](https://github.com/Felipe3838)
+- Linkedin: (https://www.linkedin.com/in/brayan-felipe-mu%C3%B1oz/)
 
 ---
 
